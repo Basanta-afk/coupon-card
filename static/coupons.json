@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "code": "COUPON1",
+    "title": "Coupon 1",
+    "description": "This is the first coupon",
+    "redeemed": false
+  },
+  {
+    "id": 2,
+    "code": "COUPON2",
+    "title": "Coupon 2",
+    "description": "This is the second coupon",
+    "redeemed": false
+  }
+]
